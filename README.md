@@ -14,7 +14,7 @@ This is a hybrid encryption tool that supports both AES and RSA encryption. It p
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/CustomEncryptionTool.git
+   git clone https://github.com/josephdevasia1/CustomEncryptionTool.git
    cd CustomEncryptionTool
    ```
 2. Install dependencies:
