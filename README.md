@@ -24,7 +24,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/CustomEncryptionTool.git
+git clone https://github.com/josephdevasia1/CustomEncryptionTool.git
 cd CustomEncryptionTool
 
 Install dependencies:
